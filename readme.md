@@ -4,13 +4,13 @@
 
 - [badapple.py](badapple.py)
 
-- bilibili.py
+- [bilibili.py](bilibili.py)
 
-- bilibili取关.py
+- [bilibili取关.py](bilibili取关.py)
 
-- draw.py
+- [draw.py](draw.py)
 
-- iwara2.py
+- [iwara2.py](iwara2.py)
 
 - readme.md
 
