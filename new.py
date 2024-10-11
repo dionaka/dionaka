@@ -28,3 +28,18 @@ for i in arr:
 print("\n最大的数是:",max(arr))
 print("最小的数是:",min(arr))
 
+#5
+***
+char="abc123"
+newchar=""
+for i in range(len(char)):
+    newchar+=char[-1-i]
+print(newchar)
+***
+
+char="abc123"
+print(''.join(reversed(char)))
+
+#6
+
+
