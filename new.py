@@ -30,17 +30,30 @@ print("\n最大的数是:",max(arr))
 print("最小的数是:",min(arr))
 
 #5
-***
+#遍历
 char="abc123"
 newchar=""
 for i in range(len(char)):
     newchar+=char[-1-i]
 print(newchar)
-***
 
+#or
 char="abc123"
 print(''.join(reversed(char)))
 
+#or
+char="abc123"
+print(char[::-1])
+
+#or
+char="abc123"
+def vex(s):
+    if s=="":
+        return s
+    else:
+        return vex(s[1:])+s[0]
+print(vex(char))
+  
 #6
 
 
