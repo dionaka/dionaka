@@ -1,14 +1,18 @@
 import random
 dic={}
 error=0
-testnum=10000
-partnum=100
+testnum=1000000
+partnum=1
+#参与人数
+Boxnum=100
+#总盒数(>参与人数)
 boxnum=50
-arr=list(range(1,partnum+1))
+#抓取盒数
+arr=list(range(1,Boxnum+1))
 def mode(error):
-    brr=list(range(1,partnum+1))
+    brr=list(range(1,Boxnum+1))
     random.shuffle(brr)
-    for i in range(partnum):
+    for i in range(Boxnum):
         dic[arr[i]]=brr[i]
     for i in range(1,partnum+1):
         #1--partnum试验人员
@@ -27,8 +31,7 @@ def mode(error):
             error+=1
             return error
     return error       
-for i in range(testnum):
-    #模拟testnum次
+for i in range(testnum):#模拟testnum次
     error=mode(error)
 accuracy=(testnum-error)/testnum
 print(accuracy)
