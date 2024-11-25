@@ -1,2 +1,2 @@
 import pandas as pd
-pd.read
+pd.read_excel("point_url.xlsx")
