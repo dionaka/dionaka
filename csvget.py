@@ -9,9 +9,9 @@ def tran(url,title):
 
 
 def main():
-    url = ""
-    title = ""
+    url = "https://docs.qq.com/sheet/DSHV2Uk9OQXdCSU91"
+    title = "书名"
     tran(url,title)
 
 
-main
+main()
