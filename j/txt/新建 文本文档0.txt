@@ -1,0 +1,1 @@
+"C:\Users\hp\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WinRAR\WinRAR.lnk" x -pyourpassword "C:\Users\hp\Desktop\LOLI TIME.exe" "C:\Users\hp\Desktop" -o+ -y
