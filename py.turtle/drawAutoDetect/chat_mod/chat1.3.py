@@ -5,7 +5,7 @@ import sys # 为了处理退出
 from openai import OpenAI
 import time # 用于生成唯一文件名
 import json # 导入 json 库
-import playsound # 导入 playsound 库
+import winsound # 导入 winsound 库
 
 # 创建保存语音的目录
 audio_save_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "voice")
@@ -231,12 +231,12 @@ while True:
         print(f"正在播放语音: {audio_filepath}")
         # 根据操作系统选择播放命令
         if sys.platform == "win32":
-            # Windows下使用 playsound 库实现无窗口播放
+            # Windows下使用 winsound 库实现无窗口播放
             try:
-                playsound.playsound(audio_filepath, block=True)
-            except playsound.PlaysoundException as e:
+                winsound.PlaySound(audio_filepath, winsound.SND_FILENAME)
+            except Exception as e:
                 print(f"播放音频失败: {e}")
-                # 如果 playsound 失败，可以考虑回退到 Start-Process 或者提示用户
+                # 如果 winsound 失败，可以考虑回退到 Start-Process 或者提示用户
                 # 为了简单起见，这里只打印错误
         elif sys.platform == "darwin":
             # macOS下使用afplay
