@@ -4,6 +4,8 @@
 
   - [main.py](astrbot_plugin_setu/main.py)
   - [_conf_schema.json](astrbot_plugin_setu/_conf_schema.json)
+  - [metadata.yaml](astrbot_plugin_setu/metadata.yaml)
+  - [README.md](astrbot_plugin_setu/README.md)
 
 ### spider(见代码)
 
