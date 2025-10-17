@@ -1,7 +1,3 @@
-<style>
-  .no_underline a {text-decoration: none !important;}
-</style>
-
 # *dionaka*
 
 ### astrbot_plugin_setu
@@ -61,7 +57,7 @@
 
   简单命令行开机20s后自动关机
 
-#### <div class="no_underline">[convict_box.py](convict_box.py) [convict_box(1).py](convict_box(1).py)</div>
+#### [convict_box.py](convict_box.py) [convict_box(1).py](convict_box(1).py)
 
 
  
