@@ -47,7 +47,7 @@
 
 #### [draw.py](draw.py)
 
-  基于turtle绘图,需手动传入参数
+  基于turtle绘图,需手动传入参数,[turtle.py仓库](https://github.com/dionaka/py.turtle)为基于此项目24下学期人工智能通识课水的作业
 
 #### [iwara2.py](iwara2.py)
 
