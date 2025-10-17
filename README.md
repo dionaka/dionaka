@@ -7,7 +7,9 @@
   - [metadata.yaml](astrbot_plugin_setu/metadata.yaml)
   - [README.md](astrbot_plugin_setu/README.md)
 
-### spider(见代码)
+### spider
+
+  scrapy requests selenium DrissionPage Playwright Pyppeteer部分笔记及代码
 
 ### 2024光协人工智能上学期
   - [机器学习.md](机器学习.md)
