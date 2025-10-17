@@ -6,11 +6,11 @@
 
 ### - [bilibili.py](bilibili.py) - [bilibili取关.py](bilibili取关.py)
 
-  基于selenium自动转发和删除b站抽奖动态 ***[已失效]***
+  基于selenium自动转发和删除b站抽奖动态 **[已失效]**
 
 ### - [draw.py](draw.py)
 
-  基于turtle绘图,需手动传入参数 ***[旧 后面有整合版]***
+  基于turtle绘图,需手动传入参数 **[旧 后面有整合版]**
 
 ### - [iwara2.py](iwara2.py)
 
