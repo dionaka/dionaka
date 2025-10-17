@@ -47,7 +47,7 @@
 
 #### [draw.py](draw.py)
 
-  基于turtle绘图,需手动传入参数,<a href="https://github.com/dionaka/py.turtle" style="color:red !important;font-weight:bold;">py.turtle仓库</a>为基于此项目24下学期人工智能通识课作业
+  基于turtle绘图,需手动传入参数,[turtle.py仓库](https://github.com/dionaka/py.turtle)为基于此项目24下学期人工智能通识课作业
 
 #### [iwara2.py](iwara2.py)
 
