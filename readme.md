@@ -28,5 +28,8 @@
     - [进阶二](2024光协/进阶二)
   
 ### - [echo.bat](echo.bat)
+
+  简单命令行开机20s后自动关机
+
 ### - [convict_box.py](convict_box.py)
 ### - [convict_box(1).py](convict_box(1).py)
