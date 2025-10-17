@@ -13,6 +13,7 @@
 
 ### books
   - [excel_get.py](books/excel_get.py)
+  从 Excel 文件中提取特定书籍信息并保存到文本文件
 
 ### 2024光协人工智能上学期
   - [机器学习.md](机器学习.md)
