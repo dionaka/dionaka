@@ -31,5 +31,5 @@
 
   简单命令行开机20s后自动关机
 
-### - [convict_box.py](convict_box.py)
-### - [convict_box(1).py](convict_box(1).py)
+### - [convict_box.py](convict_box.py) [convict_box(1).py](convict_box(1).py)
+ 
