@@ -1,3 +1,7 @@
+<style>
+  .no_underline a {text-decoration: none}
+</style>
+
 # *dionaka*
 
 ### astrbot_plugin_setu
@@ -37,12 +41,6 @@
 
 ---
 
-<style>
-  a {
-    text-decoration: none
-  }
-</style>
-
 #### [badapple.py](badapple.py) 
 
   基于opencv在控制台播放badapple
@@ -63,7 +61,7 @@
 
   简单命令行开机20s后自动关机
 
-#### [convict_box.py](convict_box.py) [convict_box(1).py](convict_box(1).py)
+#### <div class="no_underline">[convict_box.py](convict_box.py) [convict_box(1).py](convict_box(1).py)</div>
 
 
  
