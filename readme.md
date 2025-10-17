@@ -6,10 +6,9 @@
 
   基于opencv在控制台播放badapple！
 
-- [bilibili.py](bilibili.py)
-- [bilibili取关.py](bilibili取关.py)
+- [bilibili.py](bilibili.py) - [bilibili取关.py](bilibili取关.py)
 
-  **(已失效)**基于selenium自动转发和删除b站抽奖动态
+  **已失效**基于selenium自动转发和删除b站抽奖动态
 
 - [draw.py](draw.py)
 
