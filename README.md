@@ -37,10 +37,15 @@
 
 ---
 
-<span style="text-decoration: none;">
+<style>
+  span {
+    text-decoration: none
+  }
+</style>
+
 #### [badapple.py](badapple.py) 
 
-  基于opencv在控制台播放badapple！
+  <span>基于opencv在控制台播放badapple</span>
 
 #### [bilibili.py](bilibili.py) [bilibili取关.py](bilibili取关.py)
 
@@ -59,7 +64,6 @@
   简单命令行开机20s后自动关机
 
 #### [convict_box.py](convict_box.py) [convict_box(1).py](convict_box(1).py)
-</span>
 
 
  
