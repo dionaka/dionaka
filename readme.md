@@ -8,6 +8,8 @@
 
 - [bilibili.py](bilibili.py)
 
+  基于selenium自动转发b站抽奖动态(已失效)
+
 - [bilibili取关.py](bilibili取关.py)
 
 - [draw.py](draw.py)
