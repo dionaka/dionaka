@@ -16,10 +16,9 @@
 
   基于requests下载iwara视频
 
-### spider
+### spider(见代码)
 
 ### 2024光协人工智能上学期
-  - [人工智能.pdf](人工智能.pdf)
   - [机器学习.md](机器学习.md)
   - [任务二](new.py)
   - [KNN.py](KNN.py)
