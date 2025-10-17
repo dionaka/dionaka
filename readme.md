@@ -16,6 +16,8 @@
 
 - [iwara2.py](iwara2.py)
 
+  基于requests下载iwara视频
+
 - 2024光协人工智能上学期
   - [人工智能.pdf](人工智能.pdf)
   - [机器学习.md](机器学习.md)
