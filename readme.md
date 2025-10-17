@@ -10,7 +10,7 @@
 
 ### - [draw.py](draw.py)
 
-  基于turtle绘图,需手动传入参数(后面有整合版)
+  基于turtle绘图,需手动传入参数
 
 ### - [iwara2.py](iwara2.py)
 
