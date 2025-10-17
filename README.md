@@ -21,6 +21,8 @@
     - [KNN](2024光协/KNN)
     - [进阶二](2024光协/进阶二)
 
+---
+
 #### [badapple.py](badapple.py) 
 
   基于opencv在控制台播放badapple！
