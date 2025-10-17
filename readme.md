@@ -12,6 +12,8 @@
 
 - [draw.py](draw.py)
 
+  基于turtle绘图,需手动传入参数
+
 - [iwara2.py](iwara2.py)
 
 - 2024光协人工智能上学期
