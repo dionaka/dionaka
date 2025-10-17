@@ -11,6 +11,9 @@
 
   scrapy requests selenium DrissionPage Playwright Pyppeteer部分笔记及代码
 
+### books
+  - [excel_get.py](books/excel_get.py)
+
 ### 2024光协人工智能上学期
   - [机器学习.md](机器学习.md)
   - [任务二](new.py)
