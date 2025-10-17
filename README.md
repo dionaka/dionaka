@@ -30,6 +30,10 @@
     - [KNN](2024光协/KNN)
     - [进阶二](2024光协/进阶二)
 
+### 迷(？)
+  - [qq_pic](qq_pic)
+  - [j](j)
+
 ---
 
 #### [badapple.py](badapple.py) 
