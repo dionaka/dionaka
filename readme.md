@@ -1,5 +1,10 @@
 # *dionaka*
 
+### astrbot_plugin_setu
+
+  - [astrbot_plugin_setu/main.py](main.py)
+  
+
 ### spider(见代码)
 
 ### 2024光协人工智能上学期
