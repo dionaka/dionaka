@@ -38,14 +38,14 @@
 ---
 
 <style>
-  span {
+  a {
     text-decoration: none
   }
 </style>
 
 #### [badapple.py](badapple.py) 
 
-  <span>基于opencv在控制台播放badapple</span>
+  基于opencv在控制台播放badapple
 
 #### [bilibili.py](bilibili.py) [bilibili取关.py](bilibili取关.py)
 
