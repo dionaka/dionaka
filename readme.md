@@ -8,7 +8,7 @@
 
 - [bilibili.py](bilibili.py) - [bilibili取关.py](bilibili取关.py)
 
-  ***[已失效]*** 基于selenium自动转发和删除b站抽奖动态
+  基于selenium自动转发和删除b站抽奖动态***[已失效]***
 
 - [draw.py](draw.py)
 
