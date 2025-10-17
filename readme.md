@@ -1,7 +1,5 @@
 # *dionaka*
 
-## 目录页 Table of contents
-
 ### - [badapple.py](badapple.py) 
 
   基于opencv在控制台播放badapple！
@@ -10,15 +8,15 @@
 
   基于selenium自动转发和删除b站抽奖动态 ***[已失效]***
 
-- [draw.py](draw.py)
+### - [draw.py](draw.py)
 
   基于turtle绘图,需手动传入参数
 
-- [iwara2.py](iwara2.py)
+### - [iwara2.py](iwara2.py)
 
   基于requests下载iwara视频
 
-- 2024光协人工智能上学期
+### - 2024光协人工智能上学期
   - [人工智能.pdf](人工智能.pdf)
   - [机器学习.md](机器学习.md)
   - [任务二](new.py)
@@ -32,17 +30,3 @@
 - [echo.bat](echo.bat)
 - [convict_box.py](convict_box.py)
 - [convict_box(1).py](convict_box(1).py)
-
-## 介绍 Description
-
-
-
-
-## 快速上手 Quickstart
-
-
-
-
-## 代码块 Code
-```bash
-echo "Hello, World!"
