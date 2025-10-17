@@ -2,8 +2,8 @@
 
 ### astrbot_plugin_setu
 
-  - [astrbot_plugin_setu/main.py](main.py)
-  
+  - [main.py](astrbot_plugin_setu/main.py)
+  - [_conf_schema.json](astrbot_plugin_setu/_conf_schema.json)
 
 ### spider(见代码)
 
