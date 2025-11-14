@@ -699,7 +699,7 @@ module envelope_generator (
     input wire clk,
     input wire rst_n,
     input wire note_on,           // 音符触发
-    input reg [15:0] audio_in,
+    input wire [15:0] audio_in,
     output reg [15:0] audio_out
 );
 
